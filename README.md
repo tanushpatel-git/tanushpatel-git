@@ -72,10 +72,9 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
 <p align="center" ><img style="margin: 4px;" height="280em" src="https://i.pinimg.com/736x/44/99/e1/4499e1818a368db87a7aac6a04426978.jpg" alt="loading"/><img style="margin: 4px;" height="280em" src="https://i.pinimg.com/736x/cd/ea/89/cdea898a4f8522dfd062fa92a0b0e136.jpg" alt="loading"/><img style="margin: 4px;" height="280em" src="https://i.pinimg.com/736x/14/18/ff/1418ffcd46470d527e5d97b234091aaf.jpg" alt="loading"/><img style="margin: 4px;" height="280em" src="https://i.pinimg.com/736x/c9/ef/8b/c9ef8bf4a50ef8d51ecaf756ecfb7550.jpg" alt="loading"/></p>
 <h1 align="center" >Something more about my work.</h1>
