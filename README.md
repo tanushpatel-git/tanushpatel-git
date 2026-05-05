@@ -26,7 +26,6 @@
   <a href="https://github.com/tanushpatel-git">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanushpatel-git&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="tanushpatel-git's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=tanushpatel-git&theme=dark&hide_border=true&cache_seconds=86400" alt="tanushpatel-git's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=tanushpatel-git&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tanush Patel's GitHub Trophies" />
