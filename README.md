@@ -51,7 +51,7 @@
 
 
 > ## Data analytics
-<p align="center"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5ZHknoATXvqzve02eA0nucY-grqFQPD_bZY7XrMXGg&s=10)" alt="powerBi" width="48" height="48" style="margin: 4px;" /> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVPQaKN0OpWiL4ISrdz009ZCntJ6UtUuAD6joLmGiUsw&s=10)" alt="Redis" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5ZHknoATXvqzve02eA0nucY-grqFQPD_bZY7XrMXGg&s=10)" alt="powerBi" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVPQaKN0OpWiL4ISrdz009ZCntJ6UtUuAD6joLmGiUsw&s=10)" alt="Redis" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## DevOps & Cloud
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /></p>
