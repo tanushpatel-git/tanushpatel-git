@@ -31,5 +31,3 @@
 </p>
 
 <br>
-
-<p align="center"><sub>powered by <a href="https://github.com/collectioneur/readme-aura">readme-aura</a></sub></p>
