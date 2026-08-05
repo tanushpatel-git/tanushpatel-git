@@ -293,7 +293,7 @@
     display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
     padding: '0 8px', fontFamily: 'BrutalMonoBold',
   }}>
-    <img src="https://cdn.simpleicons.org/github/111111" width={16} height={16} alt="" />
+    <img src="./.github/assets/icons/github.svg" width={16} height={16} alt="" />
     <span style={{ fontSize: 12, color: '#111111', letterSpacing: '0.5px' }}>GITHUB</span>
   </div>
 </div>
@@ -310,7 +310,7 @@
     display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
     padding: '0 8px', fontFamily: 'BrutalMonoBold',
   }}>
-    <img src="https://cdn.simpleicons.org/vercel/111111" width={16} height={16} alt="" />
+    <img src="./.github/assets/icons/vercel.svg" width={16} height={16} alt="" />
     <span style={{ fontSize: 12, color: '#111111', letterSpacing: '0.5px' }}>PORTFOLIO</span>
   </div>
 </div>
@@ -327,7 +327,7 @@
     display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
     padding: '0 8px', fontFamily: 'BrutalMonoBold',
   }}>
-    <img src="https://cdn.simpleicons.org/whatsapp/111111" width={16} height={16} alt="" />
+    <img src="./.github/assets/icons/whatsapp.svg" width={16} height={16} alt="" />
     <span style={{ fontSize: 12, color: '#111111', letterSpacing: '0.5px' }}>WHATSAPP</span>
   </div>
 </div>
@@ -344,7 +344,7 @@
     display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
     padding: '0 8px', fontFamily: 'BrutalMonoBold',
   }}>
-    <img src="https://cdn.simpleicons.org/gmail/111111" width={16} height={16} alt="" />
+    <img src="./.github/assets/icons/gmail.svg" width={16} height={16} alt="" />
     <span style={{ fontSize: 12, color: '#111111', letterSpacing: '0.5px' }}>EMAIL</span>
   </div>
 </div>
