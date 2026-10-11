@@ -1,0 +1,28 @@
+name: GitHub Stats Update
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_COMMIT_TOKEN }}
+
+      - name: Generate Stats
+        uses: VatsalSy/commits-readme-stats@v3.0
+        with:
+          GH_COMMIT_TOKEN: ${{ secrets.GH_COMMIT_TOKEN }}
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_TOTAL_COMMITS: true
+          COMMIT_MESSAGE: 'docs(stats): update github stats'
+          COMMIT_BY_ME: false
+          COMMIT_USERNAME: 'github-actions[bot]'
+          COMMIT_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com'
