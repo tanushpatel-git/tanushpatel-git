@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tanush Patel 👋</h1>
+<h1 align="center">Hi, I'm Tanush Patel (Tlux)</h1>
 
 <p align="center">
   Full Stack · Data Science · Generative AI Developer
@@ -27,24 +27,22 @@
     "genAI": ["LLMs", "Prompt Engineering", "LangChain", "RAG", "OpenAI API"],
     "tools": ["Git", "GitHub", "Docker", "VS Code", "Postman"]
   },
-  "currently": {
-    "learning": "Advanced Generative AI & MLOps",
-    "building": "AI-powered full stack applications",
-    "openTo": ["Collaboration", "Freelance", "Full-time roles"]
+  "projects": {
+    "Bytebin": {
+      "tagline": "A GitHub fallback that fills GitHub's gaps and gives developers a better environment to grow",
+      "status": "In development",
+      "role": "Founder & Developer"
+    }
   },
-  "interests": ["Open Source", "Hackathons", "Problem Solving", "Chess"]
+  "currently": {
+    "status": "Freelancing",
+    "workingOn": "Bytebin — a GitHub fallback that fills GitHub's gaps and gives developers a better environment to grow",
+    "learning": "Advanced Generative AI & MLOps",
+    "openTo": ["Freelance projects", "Collaboration"]
+  },
+  "interests": ["Open Source", "Developer Tools", "Hackathons", "Problem Solving", "Chess"]
 }
 ```
-
-<h2 align="center">📅 Commit Activity — Day of the Week</h2>
-
-<p align="center">
-  <i>Total commits, commit timing, and the weekday I'm most productive — updated daily by GitHub Actions.</i>
-</p>
-
-<!--START_SECTION:github-stats-->
-> ⏳ Waiting for the **GitHub Stats Update** workflow to run. Once it runs it will show my total commits, commit-timing pattern, and the **day of the week I contribute the most**.
-<!--END_SECTION:github-stats-->
 
 <p align="center">
   <a href="https://tanushportfolioo.netlify.app">Portfolio</a> ·
