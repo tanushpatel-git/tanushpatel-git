@@ -20,12 +20,12 @@
     "Generative AI / LLM Applications"
   ],
   "skills": {
-    "languages": ["JavaScript", "TypeScript", "Python", "Java", "C++", "SQL"],
+    "languages": ["JavaScript", "TypeScript", "Python", "Java", "C++", "SQL", "go"],
     "frontend": ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
     "backend": ["Node.js", "Express", "FastAPI", "REST APIs"],
     "dataScience": ["Pandas", "NumPy", "scikit-learn", "Matplotlib", "Jupyter"],
-    "genAI": ["LLMs", "Prompt Engineering", "LangChain", "RAG", "OpenAI API"],
-    "tools": ["Git", "GitHub", "Docker", "VS Code", "Postman"]
+    "genAI": ["LLMs", "Prompt Engineering", "LangChain", "RAG", "OpenAI API", "LangGraph"],
+    "tools": ["Git", "GitHub", "Docker", "VS Code", "Postman", "Cabernet"]
   },
   "projects": {
     "Bytebin": {
