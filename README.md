@@ -20,7 +20,7 @@
     "Generative AI / LLM Applications"
   ],
   "skills": {
-    "languages": ["JavaScript", "TypeScript", "Python", "Java", "C++", "SQL", "go"],
+    "languages": ["JavaScript", "TypeScript", "Python", "Java", "C++", "SQL", "Go"],
     "frontend": ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
     "backend": ["Node.js", "Express", "FastAPI", "REST APIs"],
     "dataScience": ["Pandas", "NumPy", "scikit-learn", "Matplotlib", "Jupyter"],
