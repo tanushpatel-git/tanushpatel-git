@@ -23,9 +23,9 @@
     "languages": ["JavaScript", "TypeScript", "Python", "Java", "C++", "SQL", "Go"],
     "frontend": ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
     "backend": ["Node.js", "Express", "FastAPI", "REST APIs"],
-    "dataScience": ["Pandas", "NumPy", "scikit-learn", "Matplotlib", "Jupyter"],
+    "dataScience": ["Pandas", "NumPy", "scikit-learn", "Matplotlib", "Jupyter", "Machine Learning Algorithm", "Deep Learning Architecture"],
     "genAI": ["LLMs", "Prompt Engineering", "LangChain", "RAG", "OpenAI API", "LangGraph"],
-    "tools": ["Git", "GitHub", "Docker", "VS Code", "Postman", "Cabernet"]
+    "tools": ["Git", "GitHub", "Docker", "VS Code", "Postman", "Kubernet"]
   },
   "projects": {
     "Bytebin": {
