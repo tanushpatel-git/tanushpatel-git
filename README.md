@@ -4,7 +4,7 @@
   Full Stack · Data Science · Generative AI Developer
 </p>
 
-```json
+```code
 {
   "profile": {
     "name": "Tanush Patel",
