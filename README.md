@@ -48,4 +48,3 @@
   <a href="https://tanushportfolioo.netlify.app">Portfolio</a> ·
   <a href="https://github.com/tanushpatel-git">GitHub</a>
 </p>
- <!-- this is a chang 1 -->
