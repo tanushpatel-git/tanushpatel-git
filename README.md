@@ -1,10 +1,11 @@
-<h1 align="center">Hi, I'm Tanush Patel (Tlux)</h1>
-
 <p align="center">
-  Full Stack · Data Science · Generative AI Developer
+  <img src="./6c4b1c100705e388ebbc5a59bfabac56.jpg" alt="Space-themed developer desktop collage" width="100%" />
+</p>
+<p align="center">
+  <a href="https://github.com/tanushpatel-git"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=tanushpatel-git&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&card_width=600&line_height=40&custom_title=Tanush%20Patel%20%7C%20GitHub%20Activity" alt="Tanush Patel's GitHub profile statistics" /></a>
 </p>
 
-```code
+```json
 {
   "profile": {
     "name": "Tanush Patel",
@@ -23,7 +24,7 @@
     "languages": ["JavaScript", "TypeScript", "Python", "Java", "C++", "SQL", "Go"],
     "frontend": ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
     "backend": ["Node.js", "Express", "FastAPI", "REST APIs"],
-    "dataScience": ["Pandas", "NumPy", "scikit-learn", "Matplotlib", "Jupyter", "tensorFlow" ,"PyTorch"],
+    "dataScience": ["Pandas", "NumPy", "scikit-learn", "Matplotlib", "Jupyter", "tensorFlow", "PyTorch"],
     "genAI": ["LLMs", "Prompt Engineering", "LangChain", "RAG", "OpenAI API", "LangGraph"],
     "tools": ["Git", "GitHub", "Docker", "VS Code", "Postman", "Kubernet"]
   },
@@ -43,9 +44,3 @@
   "interests": ["Open Source", "Developer Tools", "Hackathons", "Problem Solving", "Chess"]
 }
 ```
-
-<p align="center">
-  <a href="https://tanushportfolioo.netlify.app">Portfolio</a> ·
-  <a href="https://github.com/tanushpatel-git">GitHub</a>
-</p>
-<!-- change this thing also -->
