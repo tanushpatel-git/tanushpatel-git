@@ -48,4 +48,4 @@
   <a href="https://tanushportfolioo.netlify.app">Portfolio</a> ·
   <a href="https://github.com/tanushpatel-git">GitHub</a>
 </p>
-<!-- change one more theam and commit again -->
+<!-- remove all the changes -->
