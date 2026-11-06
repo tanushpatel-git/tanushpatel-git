@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./6c4b1c100705e388ebbc5a59bfabac56.jpg" alt="Space-themed developer desktop collage" width="100%" />
 </p>
-<p align="center">
-  <a href="https://github.com/tanushpatel-git"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=tanushpatel-git&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&card_width=600&line_height=40&custom_title=Tanush%20Patel%20%7C%20GitHub%20Activity" alt="Tanush Patel's GitHub profile statistics" /></a>
-</p>
 
 ```json
 {
